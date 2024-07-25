@@ -1,0 +1,37 @@
+.abc{
+    padding-top: 7px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30;
+
+}
+ .bg-pic{
+    background-image: url("https://i.pinimg.com/564x/42/24/84/422484e379361c650885d36de6c895a9.jpg");
+    height: 800px;
+    width: 600px;
+    background-repeat: no-repeat;
+    color: white;
+    margin: auto;
+    
+
+
+    
+}
+.bi{
+    text-align: center;
+    color: rgb(233, 227, 227);
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.btn{
+    text-align: center;
+    color: orange;
+    margin-top: 20px;
+}
+.cd{
+    padding-left: 10px;
+}
+
+
+ 
